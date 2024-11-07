@@ -3,3 +3,5 @@ Hello, my name is Muhammad Adam, and I'm privileged to have been admitted into t
 This is a special repository I created for storing my weekly Arewa Data science Cohort 3.0 Python Programming Fellowship Assignments.
 
 I'm excited to create this repository.
+
+Today's date is 7th November 2023
